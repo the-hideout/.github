@@ -4,7 +4,7 @@ TODO: add something here
 
 ## Infrastructure 🧱
 
-To learn more about the infrastructure behind this project, check out the [documentation](docs/infrastructure.md)!
+To learn more about the infrastructure behind this project, check out the [documentation](https://github.com/the-hideout/.github/blob/main/profile/docs/infrastructure.md)!
 
 <!--
 
