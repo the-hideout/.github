@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+
+## Infrastructure 🧱
+
+To learn more about the infrastructure behind this project, check out the [documentation](docs/infrastructure.md)!
 
 <!--
 
