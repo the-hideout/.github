@@ -1,6 +1,6 @@
 # Hi there 👋
 
-TODO: add something here
+Many of the repos comprising this project were forked from repos originally started by kokarn and would not have been possible without his work and the work of other contributors to those projects.
 
 ## Infrastructure 🧱
 
