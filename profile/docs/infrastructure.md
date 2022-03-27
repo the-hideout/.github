@@ -21,3 +21,13 @@ To help maintainers and future contributors wrap their heads around the infrastr
 1. **Static S3 Bucket** - Static assets (mainly images) for [tarkov.dev](https://tarkov.dev) are stored in an S3 bucket. This bucket is used with Cloudflare's CDN
 1. **Cloudflare CDN** - The [Cloudflare CDN](https://www.cloudflare.com/cdn/) is used to serve static assets (mainly images) to [tarkov.dev](https://tarkov.dev) site and the [tarkov-data-manager](https://github.com/the-hideout/tarkov-data-manager). It reads these images from an S3 bucket and caches them on Cloudflare's edge to serve them quickly to clients in a distributed manner
 1. **status.tarkov.dev** - The [status.tarkov.dev](https://status.tarkov.dev/) service is used to monitor the health for many of the components of the infrastructure. It is hosted on an Azure VM and uses GET healthchecks and PUSH based healthcheck to collect status metrics about other services
+
+---
+
+## Opensource Notice 💡
+
+The overwhelming majority of `The Hideout`'s infrastructure is opensource. That being said, there are a couple of components that are not opensource at this time. Those items are listed below with a brief reason:
+
+- **The Database** - This database is hosted in [planetscale](https://planetscale.com/) and we do not have a good mechanism to opensource it at this time since most of the work (schema, etc) requires access to the planetscale console and a login. It is restricted to trusted core contributors.
+- **CDN** - The CDN and its components (S3, Cloudflare, etc) are not opensource at this time mainly because we do not have a good way to share them. They require access to AWS or the Cloudflare console and that is restricted to trusted core contributors.
+- **Scanners** - The scanners are closed source and for a good reason. Their code could be taken and modified to interact with the flea market to create trading bots. Our scanners simply *view* the flea market data and do not buy or sell items and never will. However, if the scanners were opensource and modified they could do exactly that. We don't need any more flea market bots out there so these will be closed source for that reason.
