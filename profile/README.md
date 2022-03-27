@@ -6,7 +6,7 @@ This is the parent organization which contains many open source Escape from Tark
 
 The most notable projects in this organization are:
 
-- 🌐 [Tarkov.dev](https://tarkov.dev) - The official tarkov.dev website for all your Tarkov needs
+- 🌐 [Tarkov.dev](https://github.com/the-hideout/tarkov-dev) - The official [tarkov.dev](https://tarkov.dev/) website for all your Tarkov needs
 - 🤖 [Stash](https://github.com/the-hideout/stash) - The official tarkov.dev Discord bot
 - 💻 [Tarkov Data API](https://github.com/the-hideout/tarkov-data-api) - The GraphQL API that powers everything
 - 🧮 [Tarkov Data](https://github.com/TarkovTracker/tarkovdata/) - Open source structured data for the Escape from Tarkov game
