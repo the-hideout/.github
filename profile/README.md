@@ -1,6 +1,6 @@
 # Welcome to The Hideout 👋
 
-This is the parent organization which contains many open source Escape from Tarkov projects.
+This is the parent organization which contains many open source Escape from Tarkov projects. Most of these projects are used to support the Tarkov.dev website and API.
 
 ## Notable Projects ⭐
 
@@ -9,7 +9,6 @@ The most notable projects in this organization are:
 - 🌐 [Tarkov.dev](https://github.com/the-hideout/tarkov-dev) - The official [tarkov.dev](https://tarkov.dev/) website for all your Tarkov needs
 - 🤖 [Stash](https://github.com/the-hideout/stash) - The official tarkov.dev Discord bot
 - 💻 [Tarkov Data API](https://github.com/the-hideout/tarkov-data-api) - The GraphQL API that powers everything
-- 🧮 [Tarkov Data](https://github.com/TarkovTracker/tarkovdata/) - Open source structured data for the Escape from Tarkov game
 - 🖼️ [Tarkov Image Generator](https://github.com/the-hideout/tarkov-image-generator) - Tool to generate images from the local icon cache
 - 🔄 [Tarkov Crons](https://github.com/the-hideout/tarkov-crons) - Cron jobs that sync database information to our Cloudflare workers for the GraphQL API
 - 💚 [Status](https://github.com/the-hideout/status) - The official status page for tarkov.dev, api.tarkov.dev, and much more
@@ -18,7 +17,7 @@ The most notable projects in this organization are:
 
 ## About 💡
 
-This GitHub organization aims to be the central hub for all things related to Escape from Tarkov
+This GitHub organization aims to provide tools related to, and an open platform to develop more tools for, Escape from Tarkov
 
 All our contributors strive to abide by the following decree:
 
@@ -34,5 +33,10 @@ All our contributors strive to abide by the following decree:
 
 To learn more about the infrastructure behind this project, check out the [documentation](https://github.com/the-hideout/.github/blob/main/profile/docs/infrastructure.md)!
 
-## Item Data
-Game item attributes and hideout craft info are provided by the amazing folks at [Tarkov-Changes](https://tarkov-changes.com/).
+## Data Sources
+
+This project relies on outside sources of information, including:
+
+- 🗃️ [Tarkov Data](https://github.com/TarkovTracker/tarkovdata/) - Open source, community-maintained, structured data for Escape from Tarkov
+- 🔄 [Tarkov-Changes](https://tarkov-changes.com/) - Latest news on item and craft changes
+- 📚 [The Escape from Tarkov Wiki](https://escapefromtarkov.fandom.com/wiki/Escape_from_Tarkov_Wiki) - Community-maintained wiki with item images, and information on items, quests, crafts, and barters
