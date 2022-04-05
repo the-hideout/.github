@@ -33,3 +33,6 @@ All our contributors strive to abide by the following decree:
 ## Infrastructure 🧱
 
 To learn more about the infrastructure behind this project, check out the [documentation](https://github.com/the-hideout/.github/blob/main/profile/docs/infrastructure.md)!
+
+## Item Data
+Game item attributes and hideout craft info are provided by the amazing folks at [Tarkov-Changes](https://tarkov-changes.com/).
