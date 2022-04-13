@@ -10,7 +10,7 @@ The most notable projects in this organization are:
 - 🤖 [Stash](https://github.com/the-hideout/stash) - The official tarkov.dev Discord bot
 - 💻 [Tarkov Data API](https://github.com/the-hideout/tarkov-data-api) - The GraphQL API that powers everything
 - 🖼️ [Tarkov Image Generator](https://github.com/the-hideout/tarkov-image-generator) - Tool to generate images from the local icon cache
-- 🔄 [Tarkov Crons](https://github.com/the-hideout/tarkov-crons) - Cron jobs that sync database information to our Cloudflare workers for the GraphQL API
+- 🔄 [Data Manager](https://github.com/the-hideout/tarkov-data-manager) - Data manager that core contributors to the project can use to update items in the database. It also contains cron jobs that sync database information to our Cloudflare workers for the GraphQL API
 - 💚 [Status](https://github.com/the-hideout/status) - The official status page for tarkov.dev, api.tarkov.dev, and much more
 
 *Look around and you will find much more!*
