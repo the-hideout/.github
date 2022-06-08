@@ -8,8 +8,8 @@ The most notable projects in this organization are:
 
 - 🌐 [Tarkov.dev](https://github.com/the-hideout/tarkov-dev) - The official [tarkov.dev](https://tarkov.dev/) website for all your Tarkov needs
 - 🤖 [Stash](https://github.com/the-hideout/stash) - The official tarkov.dev Discord bot
-- 💻 [Tarkov Data API](https://github.com/the-hideout/tarkov-data-api) - The GraphQL API that powers everything
-- 🖼️ [Tarkov Image Generator](https://github.com/the-hideout/tarkov-image-generator) - Tool to generate images from the local icon cache
+- 💻 [Tarkov API](https://github.com/the-hideout/tarkov-api) - The GraphQL API that powers everything
+- ☁️ [Cloudflare Configs](https://github.com/the-hideout/cloudflare) - Cloudflare configuration for the-hideout and its related services
 - 🔄 [Data Manager](https://github.com/the-hideout/tarkov-data-manager) - Data manager that core contributors to the project can use to update items in the database. It also contains cron jobs that sync database information to our Cloudflare workers for the GraphQL API
 - 💚 [Status](https://github.com/the-hideout/status) - The official status page for tarkov.dev, api.tarkov.dev, and much more
 
@@ -35,8 +35,14 @@ To learn more about the infrastructure behind this project, check out the [docum
 
 ## Data Sources
 
-This project relies on outside sources of information, including:
+This project relies on outside sources of information, including but not limited to:
 
 - 🗃️ [Tarkov Data](https://github.com/TarkovTracker/tarkovdata/) - Open source, community-maintained, structured data for Escape from Tarkov
 - 🔄 [Tarkov-Changes](https://tarkov-changes.com/) - Latest news on item and craft changes
 - 📚 [The Escape from Tarkov Wiki](https://escapefromtarkov.fandom.com/wiki/Escape_from_Tarkov_Wiki) - Community-maintained wiki with item images, and information on items, quests, crafts, and barters
+
+## Connect 💬
+
+Join and chat with our community and the developers on [Discord](https://discord.gg/XPAsKGHSzH)
+
+[![Discord](https://img.shields.io/discord/956236955815907388?color=7388DA&label=Discord)](https://discord.gg/XPAsKGHSzH)
