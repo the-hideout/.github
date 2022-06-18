@@ -1,6 +1,6 @@
 # Infrastructure 🧱
 
-The goal for all infrastructure in this project is to be as simple as possible while being robust, distributed, and scalable. We also aim to have all components open-soruce, maintainable, and easy for contributors to contribute to.
+The goal for all infrastructure in this project is to be as simple as possible while being robust, distributed, and scalable. We also aim to have all components open soruce, maintainable, and easy for contributors to contribute to.
 
 ## Architecture Diagram 🏗️
 
@@ -24,10 +24,10 @@ To help maintainers and future contributors wrap their heads around the infrastr
 
 ---
 
-## Opensource Notice 💡
+## Open Source Notice 💡
 
-The overwhelming majority of `The Hideout`'s infrastructure is opensource. That being said, there are a couple of components that are not opensource at this time. Those items are listed below with a brief reason:
+The overwhelming majority of `The Hideout`'s infrastructure is open source. That being said, there are a couple of components that are not open source at this time. Those items are listed below with a brief reason:
 
-- **The Database** - This database is hosted in [planetscale](https://planetscale.com/) and we do not have a good mechanism to opensource it at this time since most of the work (schema, etc) requires access to the planetscale console and a login. It is restricted to trusted core contributors.
-- **CDN** - The CDN and its components (S3, Cloudflare, etc) are not opensource at this time mainly because we do not have a good way to share them. They require access to AWS or the Cloudflare console and that is restricted to trusted core contributors.
-- **Scanners** - The scanners are closed source and for a good reason. Their code could be taken and modified to interact with the flea market to create trading bots. Our scanners simply *view* the flea market data and do not buy or sell items and never will. However, if the scanners were opensource and modified they could do exactly that. We don't need any more flea market bots out there so these will be closed source for that reason.
+- **The Database** - This database is hosted in [planetscale](https://planetscale.com/) and we do not have a good mechanism to open source it at this time since most of the work (schema, etc) requires access to the planetscale console and a login. It is restricted to trusted core contributors.
+- **CDN** - The CDN and its components (S3, Cloudflare, etc) are not open source at this time mainly because we do not have a good way to share them. They require access to AWS or the Cloudflare console and that is restricted to trusted core contributors. However, a large amount of our [cloudflare configurations](https://github.com/the-hideout/cloudflare) are open source as they are managed in a public repository with Terraform
+- **Scanners** - The scanners are closed source and for a good reason. Their code could be taken and modified to interact with the flea market to create trading bots. Our scanners simply *view* the flea market data and do not buy or sell items and never will. However, if the scanners were open source and modified they could do exactly that. We don't need any more flea market bots out there so these will be closed source for that reason.
