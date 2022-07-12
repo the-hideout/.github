@@ -12,6 +12,7 @@ The most notable projects in this organization are:
 - ☁️ [Cloudflare Configs](https://github.com/the-hideout/cloudflare) - Cloudflare configuration for the-hideout and its related services
 - 🔄 [Data Manager](https://github.com/the-hideout/tarkov-data-manager) - Data manager that core contributors to the project can use to update items in the database. It also contains cron jobs that sync database information to our Cloudflare workers for the GraphQL API
 - 💚 [Status](https://github.com/the-hideout/status) - The official status page for tarkov.dev, api.tarkov.dev, and much more
+- ♻ [Cache](https://github.com/the-hideout/cache) - A bespoke caching service to cache frequent GraphQL API queries
 
 *Look around and you will find much more!*
 
