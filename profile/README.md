@@ -22,7 +22,7 @@ This GitHub organization aims to provide tools related to, and an open platform 
 
 All our contributors strive to abide by the following decree:
 
-- ❤️ Opensource - Everything for this project aims to be opensource for all
+- ❤️ Open source - Everything for this project aims to be open source for all
 - 💸 Free! That means no ads and no paywalls... ever!
 - 🚀 Highly performant and distributed - No one owner, no one server, distributed infrastructure that is highly performant and available
 - 📚 Documented - Every project should be documented and easy to understand
