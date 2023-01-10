@@ -41,6 +41,7 @@ This project relies on outside sources of information, including but not limited
 - 🗃️ [Tarkov Data](https://github.com/TarkovTracker/tarkovdata/) - Open source, community-maintained, structured data for Escape from Tarkov
 - 🔄 [Tarkov-Changes](https://tarkov-changes.com/) - Latest news on item and craft changes
 - 📚 [The Escape from Tarkov Wiki](https://escapefromtarkov.fandom.com/wiki/Escape_from_Tarkov_Wiki) - Community-maintained wiki with item images, and information on items, quests, crafts, and barters
+- [SPT-AKI](https://www.sp-tarkov.com) - An offline singleplayer EFT mod
 
 ## Connect 💬
 
