@@ -8,6 +8,7 @@ The most notable projects in this organization are:
 
 - 🌐 [Tarkov.dev](https://github.com/the-hideout/tarkov-dev) - The official [tarkov.dev](https://tarkov.dev/) website for all your Tarkov needs
 - 🤖 [Stash](https://github.com/the-hideout/stash) - The official tarkov.dev Discord bot
+- 🔍 [Tarkov Monitor](https://github.com/the-hideout/TarkovMonitor) - App to run alongside EFT that monitors game logs and automatically updates your Tarkov Tracker task progress
 - 💻 [Tarkov API](https://github.com/the-hideout/tarkov-api) - The GraphQL API that powers everything
 - ☁️ [Cloudflare Configs](https://github.com/the-hideout/cloudflare) - Cloudflare configuration for the-hideout and its related services
 - 🔄 [Data Manager](https://github.com/the-hideout/tarkov-data-manager) - Data manager that core contributors to the project can use to update items in the database. It also contains cron jobs that sync database information to our Cloudflare workers for the GraphQL API
